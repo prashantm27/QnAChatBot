@@ -36,7 +36,8 @@ Once the dependencies are installed, you can launch the Streamlit app using:
 streamlit run app.py
 
 Folder Structure
-.
+
+```.
 ├── app.py                  # Main Streamlit application
 ├── prompts.py              # Prompts 
 ├── vector_db.py            # vector db operations
@@ -50,7 +51,7 @@ Folder Structure
 │   ├── ds4sd--DocumentFigureClassifier/
 │   └── EasyOcr/
 ├── utils/                  # Utility scripts 
-
+```
 📌 Notes
 
 Make sure you have a valid OpenAI API key or any other LLM provider if required.
