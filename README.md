@@ -16,13 +16,14 @@ This project is a Generative AI-based application that allows users to ask quest
 
 Clone the repository
 
-```git clone https://github.com/prashantm27/QnAChatBot.git
-cd QnAChatBot```
+```git clone https://github.com/prashantm27/QnAChatBot.git```
+```cd QnAChatBot```
 
 Create and activate a virtual environment (optional but recommended)
 
-```python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate```
+```python -m venv venv```
+
+```source venv/bin/activate  # On Windows use: venv\Scripts\activate```
 
 
 Install dependencies
