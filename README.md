@@ -16,24 +16,24 @@ This project is a Generative AI-based application that allows users to ask quest
 
 Clone the repository
 
-git clone https://github.com/prashantm27/QnAChatBot.git
-cd QnAChatBot
+```git clone https://github.com/prashantm27/QnAChatBot.git
+cd QnAChatBot```
 
 Create and activate a virtual environment (optional but recommended)
 
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate```
 
 
 Install dependencies
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ▶️ Running the Application
 
 Once the dependencies are installed, you can launch the Streamlit app using:
 
-streamlit run app.py
+```streamlit run app.py```
 
 Folder Structure
 
