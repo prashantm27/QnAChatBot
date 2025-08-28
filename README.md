@@ -1,4 +1,4 @@
-📄 GenAI Document Question Answering App
+## 📄 GenAI Document Question Answering App **QnAChatBot**
 
 This project is a Generative AI-based application that allows users to ask questions and receive answers from uploaded documents. It leverages state-of-the-art language models and provides a simple, interactive interface built with Streamlit.
 
@@ -35,9 +35,7 @@ Once the dependencies are installed, you can launch the Streamlit app using:
 
 streamlit run app.py
 
-
-Replace app.py with the actual name of your Streamlit script if it's different.
-
+Folder Structure
 .
 ├── app.py                  # Main Streamlit application
 ├── prompts.py              # Prompts 
@@ -65,5 +63,5 @@ Feel free to fork this repo, open issues, or submit pull requests. Contributions
 
 📄 License
 
-This project is licensed under the MIT License – see the LICENSE
+This project is licensed under the Apache 2.0 License – see the LICENSE
  file for details.
